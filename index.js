@@ -5,6 +5,7 @@
 // @description  grap movie score
 // @author       ipeng6
 // @match        https://www.dytt8.net/*
+// @match        http://www.ygdy8.net/*
 // @grant        none
 // ==/UserScript==
 
